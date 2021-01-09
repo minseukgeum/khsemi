@@ -1,0 +1,9 @@
+01. Name : 운영자
+     ID : admin
+     PW : 1234
+     Email : admin@recipe.co.kr
+
+02. Name : 유저
+     ID : user01
+     PW : User011234*
+     Email : user01@user.co.kr

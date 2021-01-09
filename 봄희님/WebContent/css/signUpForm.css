@@ -1,0 +1,25 @@
+@charset "UTF-8";
+.joinArea{
+			width: 48%; height: 450px;
+			margin-left: 100px; margin-right: 100px; margin-top: 100px; margin-bottom: 50px;
+			font-size: 12px;
+		}
+#idCheck, #nickCheck{
+				border-radius: 15px; color: white; background: #589284;
+				width: 80px; font-size: 12px; padding-top: 5px; padding-bottom: 5px;
+				border: none;
+					}
+#blabla{
+		font-size:8px;
+		}
+#signUpBtn {
+			border-radius: 15px; background: #589284; color: white;
+			width: 80px; font-size: 12px; padding-top: 5px; padding-bottom: 5px;
+			border: none;
+			}
+#goMain {
+		border-radius: 15px; background: #c0c0c0; color: white;
+		width: 80px; font-size: 12px; padding-top: 5px; padding-bottom: 5px;
+		border: none;
+		}
+#signUpBtns{text-align: center;}

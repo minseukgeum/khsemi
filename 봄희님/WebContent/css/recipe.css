@@ -1,0 +1,103 @@
+@charset "UTF-8";
+
+/* 	section */
+.section-area{
+	width: 1000px;
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.input-area{
+	width: 900px;
+	box-sizing: border-box;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	word-break: keep-all;
+	padding: 80px 17px 59px 17px;
+	position: relative;
+	margin: auto;
+}
+.note-editing-area{
+	border-radius: 10px;
+	background-color: lightgray;
+	margin-top: 10px;
+}
+.note-codable{
+	appearance: none;
+	font: inherit;
+	overflow: auto;
+	line-height: inherit;
+	word-break: break-all;
+	min-height: 200px !important;
+	display: none;
+	width: 100%;
+	padding: 10px;
+	font-family: Menlo,Monaco,monospace,sans-serif;
+	font-size: 14px;
+	color: #ccc;
+	background-color: #222;
+	border: 0;
+	border-radius: 0;
+	outline: 0;
+	box-shadow: none;
+	box-sizing: border-box;
+	resize: none;
+}
+.note-editable{
+	box-sizing: border-box;
+	border: 0;
+	font: inherit;
+	vertical-align: baseline;
+	font-size: inherit;
+	line-height: inherit;
+	word-break: break-all;
+	outline: 0;
+	overflow: auto;
+	background: none;
+	padding: 18px 15px;
+	height: 600px;
+}
+.input-file{
+	background-color: lightgray;
+	border-radius: 10px;
+	width: 170px;
+	
+}
+.input-file-button{
+	width: 50px;
+	margin-left: 20px;
+	margin-top: 1px;
+	margin-bottom: 1px;
+	background-color: lightgray;
+	border: none;
+}
+#cancel{
+	margin-left: 25%;
+}
+#submit{
+	float: right;
+	margin-right: 25%;
+}
+.title{
+	background-color: lightgray;
+	border-radius: 10px;
+	width: 250px;
+	height: 20px;
+	border: none;
+	margin-top: 10px;
+}
+.button-area{
+	margin-top: 30px;
+}
+.button{
+	display: inline-block;
+	width: 120px;
+	background-color: green;
+	color: white;
+	font-size: 15px;
+	border-radius: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border: none;
+}
